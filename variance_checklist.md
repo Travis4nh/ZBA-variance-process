@@ -55,8 +55,7 @@ injure public rights".
 -   What clause is the applicant seeking a variance from?
     (see top of document)
 
--   What is the spirit / objective of that clause?
-    _____________________
+-   What is the spirit / objective of that clause? _____________________
 
 -   Would this variance violate that spirit / objective? Y / N
 
@@ -66,8 +65,7 @@ injure public rights".
     whether it would alter the essential character of the locality" \[
     apparently overlapping with prong 1\]
 
-    -   What is the character of the locality?
-        _____________________
+    -   What is the character of the locality?        _____________________
 
     -   Would this variance alter the character of the locality? Y / N
 
@@ -97,11 +95,9 @@ to the applicant must not be outweighed by harm to the general public."
     with the area's present use **\[ ZBANHaHfLO II-13, II-14 ; Malachy
     Glen Associates v. Town of Chichester 155 N.H. 102 (2007) \] **
 
--   What benefit to the individual ?
-    ________________________
+-   What benefit to the individual ? ________________________
 
--   What harm to the public ?
-    _________________________
+-   What harm to the public ?    _________________________
 
 -   Does the benefit outweigh the harm? Y / N
 
@@ -185,8 +181,7 @@ purposes of the ordinance provision and the specific application of that
 provision to the property (referred to by some as the **relationship
 test**) \[ **ZBANHaHfLO page II-15 \]**
 
--   What is the *purpose* of the zoning provision?
-    _______________
+-   What is the *purpose* of the zoning provision?    _______________
 
 -   Is there any fair and substantial relationship between the
     application of the zoning provision on this property to the
@@ -209,7 +204,6 @@ the **reasonable use test**) \[ **ZBANHaHfLO page II-15 \]**
     that is no different than other properties? **\[ Bosse v.
     Portsmouth, 107 N.H. 523(1967) \]** Y / N
 
-<!-- -->
 
 -   "If the land is reasonably suited for a \[ singular \] permitted
     use, no hardship can be found." **\[ ZBANHaHfLO page D-6 \]
@@ -226,10 +220,9 @@ the **reasonable use test**) \[ **ZBANHaHfLO page II-15 \]**
     supporting the grant of a variance." **\[ Crossley v. Town of
     Pelham, 133 N.H. 215 (1990) \]**
 
-    -   What are the permitted uses for the land in that zone?
-        ________________
+    -   What are the permitted uses for the land in that zone?  ________________
 
-    -   Is this land reasonably suited for **one** of those uses without
+    -   Is this land reasonably suited for **one** of those uses even without
         a variance? Y / N
 
 Board Decision
@@ -286,6 +279,20 @@ that the opposite prevails. **\[ ZBANHaHfLO page III-16 \]**
 
 Notes
 -----
+
+- _______________________________________________________
+
+- _______________________________________________________
+
+- _______________________________________________________
+
+- _______________________________________________________
+
+- _______________________________________________________
+
+- _______________________________________________________
+
+- _______________________________________________________
 
 References
 ----------
